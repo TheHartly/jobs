@@ -1,5 +1,8 @@
 # Hart.ly
+
 Hartly is a project to help find remote/hybrid work and help build resumes.
+
+![Easy to Use Search Engine Rank Tracker](images/hartly_demo_gif.gif)
 
 ### How it Works
 
