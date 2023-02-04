@@ -3,7 +3,7 @@ Hartly is a project to help find remote/hybrid work and help build resumes.
 
 ### How it Works
 
-The App uses third party job scraping service like [Serply](https://serply.io/) and [ChatGPT](https://openai.com/api/) to generate the resumes and cover letter.
+The App uses third party job scraping service like [Serply](https://serply.io/) and [ChatGPT](https://openai.com/api/) to generate the resumes and cover letter. Both are free service for limited use.
 
 ## Getting Started
 
