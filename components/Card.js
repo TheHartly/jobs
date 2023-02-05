@@ -18,7 +18,7 @@ export default function Card({job, setIsGenearting}) {
                 {
                     job.perks.map(perk => {
                         return (
-                            <p className="font-light text-gray-500 hover:font-bold">* {perk}</p>
+                            <p key={job.position} className="font-light text-gray-500 hover:font-bold">* {perk}</p>
                         );
                     })
                 }
