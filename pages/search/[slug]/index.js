@@ -31,7 +31,7 @@ export default function Search() {
           openGraph={{
             url: 'https://hart.ly/search',
             title: 'Hart.ly | Applying for jobs just got easier with AI assistance.',
-            description: 'Open Graph Description',
+            description: 'Find remote/hybrid jobs, and have AI assisted resume writing.',
             images: [
               {
                 url: 'https://hart.ly/images/create_resume_using_chatgpt.png',
