@@ -49,7 +49,7 @@ export default function Search() {
         }
 
         <div className="flex justify-between grid grid-cols-3 gap-6 m-10 mb-10">
-          { jobs && jobs.length > 0 && jobs.map(job => {return <Card isLoading={isLoading} job={job} setIsGenearting={setIsGenerating} /> } ) }
+          { jobs && jobs.length > 0 && jobs.map(job => {return <Card key={job.position} isLoading={isLoading} job={job} setIsGenearting={setIsGenerating} /> } ) }
         </div>
       </main>
     </>
